@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaydenn Chang</h1>
-<h3 align="center">Most comfortable with Python, JavaScript, and Java programming.<br><br>1-2+ years of experiece in automation scripting and web development.</h3>
+<h3 align="center">Most comfortable with Python, JavaScript, and Java programming.<br><br>Experiece in automation scripting and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennx2&label=Profile%20views&color=0e75b6&style=flat" alt="dennx2" /> </p>
 

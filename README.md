@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <li>LinkedIn: <a href="https://linkedin.com/in/jaydenn-c" target="blank">https://linkedin.com/in/jaydenn-c</li>
-    <li>YouTube: <a href="https://www.youtube.com/@dennx2tech" target="blank">https://www.youtube.com/@dennx2tech</li>
+    <li>YouTube: <a href="https://www.youtube.com/@dennintech" target="blank">https://www.youtube.com/@dennx2tech</li>
     <li>Website: <a href="https://www.dennx2.com/" target="blank">https://www.dennx2.com</li>
       <li>LeetCode: <a href="https://leetcode.com/dennx2/" target="blank">https://leetcode.com/dennx2</li>
       <li>HackerRank: <a href="https://www.hackerrank.com/dennx2" target="blank">https://www.hackerrank.com/dennx2</li>

@@ -1,12 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennx2&label=Profile%20views&color=0e75b6&style=flat" alt="dennx2" /> </p>
 
 ## Connect with me 😀:
-- LinkedIn: https://linkedin.com/in/jaydenn-c
-- Medium: https://medium.com/@dennx2
-- YouTube: https://www.youtube.com/@dennintech
-- Website: https://www.dennx2.com
-- LeetCode: https://leetcode.com/dennx2
-- HackerRank: https://www.hackerrank.com/dennx2
+<p align="left">
+  <li>LinkedIn: <a href="https://linkedin.com/in/jaydenn-c" target="blank">https://linkedin.com/in/jaydenn-c</li>
+  <li>Medium: <a href="https://medium.com/@dennx2" target="blank">https://medium.com/@dennx2</li>
+  <li>YouTube: <a href="https://www.youtube.com/@dennintech" target="blank">https://www.youtube.com/@dennintech</li>
+  <li>Website: <a href="https://www.dennx2.com/" target="blank">https://www.dennx2.com</li>
+  <li>LeetCode: <a href="https://leetcode.com/dennx2/" target="blank">https://leetcode.com/dennx2</li>
+  <li>HackerRank: <a href="https://www.hackerrank.com/dennx2" target="blank">https://www.hackerrank.com/dennx2</li>
+</p>
 
 
 ## Skills 💪:

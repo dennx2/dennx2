@@ -2,9 +2,11 @@
 
 ## Connect with me 🙂
 - LinkedIn: <a href="https://linkedin.com/in/jaydenn-c" target="blank">https://linkedin.com/in/jaydenn-c
-- Medium: <a href="https://medium.com/@dennx2" target="blank">https://medium.com/@dennx2
-- YouTube: <a href="https://www.youtube.com/@dennintech" target="blank">https://www.youtube.com/@dennintech
 - Website: <a href="https://www.dennx2.com/" target="blank">https://www.dennx2.com
+- YouTube: <a href="https://www.youtube.com/@dennintech" target="blank">https://www.youtube.com/@dennintech
+
+[Others]
+- Medium: <a href="https://medium.com/@dennx2" target="blank">https://medium.com/@dennx2
 - LeetCode: <a href="https://leetcode.com/dennx2/" target="blank">https://leetcode.com/dennx2
 - HackerRank: <a href="https://www.hackerrank.com/dennx2" target="blank">https://www.hackerrank.com/dennx2
 
@@ -12,7 +14,7 @@
 
 ## My Top Skills 🤓
 ### ✅Full Stack Development (TypeScript)
-### ✅Data Pipeline (Python)
+### ✅Data Pipeline, ETL (Python)
 
 <br/><br/>
 

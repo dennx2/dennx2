@@ -11,8 +11,8 @@
 <br/><br/>
 
 ## My Top Skills 🤓
-### ✅Full Stack Development
-### ✅Python Scripting
+### ✅Full Stack Development (TypeScript)
+### ✅Data Pipeline (Python)
 
 <br/><br/>
 

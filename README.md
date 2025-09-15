@@ -1,38 +1,69 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennx2&label=Profile%20views&color=0e75b6&style=flat" alt="dennx2" /> </p>
 
-## Connect with me 🙂
+### Certifications
+
+- ✅ CompTIA A+
+
+
+
+### Cybersecurity Labs
+
+TryHackMe
+- Completed 9 beginner rooms, covering offensive & defensive security, Linux fundamentals, SIEM, and cybersecurity career insights.
+- [View Profile](https://tryhackme.com/p/dennx2)
+
+<!--
 - LinkedIn: <a href="https://linkedin.com/in/jaydenn-c" target="blank">https://linkedin.com/in/jaydenn-c
 - Website: <a href="https://www.dennx2.com/" target="blank">https://www.dennx2.com
 - YouTube: <a href="https://www.youtube.com/@dennintech" target="blank">https://www.youtube.com/@dennintech
-
-[Others]
 - Medium: <a href="https://medium.com/@dennx2" target="blank">https://medium.com/@dennx2
-- LeetCode: <a href="https://leetcode.com/dennx2/" target="blank">https://leetcode.com/dennx2
-- HackerRank: <a href="https://www.hackerrank.com/dennx2" target="blank">https://www.hackerrank.com/dennx2
+-->
 
-<br/><br/>
+---
+### Coding Challenges
 
-## My Top Skills 🤓
-### ✅Full Stack Development (TypeScript)
-### ✅Data Pipeline, ETL (Python)
+HackerRank
+- Completed multiple HackerRank challenges, earning badges in Python, Java, and SQL.
+- Received verified certifications in Java (Basic), SQL (Basic), and SQL (Intermediate).
+- [View Profile](https://www.hackerrank.com/dennx2)
 
+LeetCode
+- Completed 50 problems using Python and SQL.
+- [View Profile](https://leetcode.com/dennx2)
+
+
+### Projects
+
+- Fruit Guardian (Python, Vertex AI, GCP)
+- MyBrand & Admin Panel (Next.js, TypeScript, Firebase)
+- Rental Service API (JavaScript, Express.js, MongoDB)
+- Laboratory Management Application (Java, Spring Boot, PostgreSQL, Angular)
+- Game Discovery App (JavaScript, React, TypeScript)
+- Blogging Website (Python, Flask, SQLAlchemy)
+- Pokemon Quiz Game (Python, Flask)
+- [Portfolio](https://www.dennx2.com)
+
+
+
+
+<!--
 <br/><br/>
 
 ## Technology I have used 👩‍💻
 
-### ☑️ Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 <br/>
 
-### ☑️ Cloud Technologies
+### Cloud Technologies
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <br/>
 
-### ☑️ Web Frameworks and Tools
+### Web Frameworks and Tools
 
 🪶 Frontend
 
@@ -44,7 +75,7 @@
 
 <br/>
 
-### ☑️ Databases/ORM
+### Databases/ORM
 
 🪶 Relational Databases
 
@@ -60,20 +91,23 @@
 
 <br/>
 
-### ☑️ Big Data
+### Big Data
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 <br/>
 
-### ☑️ Version Control
+### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 
 <br/>
 
-### ☑️ Other Tools
+
+### Other Tools
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
+
+-->

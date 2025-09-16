@@ -1,22 +1,28 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennx2&label=Profile%20views&color=0e75b6&style=flat" alt="dennx2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennx2&label=Profile%20views&color=0e75b6&style=flat-square" alt="dennx2" /> </p>
+
+I'm a cybersecurity enthusiast, combining cybersecurity, data analytics, and programming while growing my skills in detecting, analyzing, and responding to security challenges.
 
 ### Certifications
 
 - ✅ CompTIA A+
 
 
-
 ### Cybersecurity Labs
 
 TryHackMe
-- Completed 9 beginner rooms, covering offensive & defensive security, Linux fundamentals, SIEM, and cybersecurity career insights.
+- Completed 10+ beginner rooms, covering offensive & defensive security, Linux fundamentals, SIEM, and cybersecurity career insights.
 - [View Profile](https://tryhackme.com/p/dennx2)
+- [Labs Write-up](https://github.com/dennx2/cybersecurity-portfolio)
+
+
+
 
 <!--
 - LinkedIn: <a href="https://linkedin.com/in/jaydenn-c" target="blank">https://linkedin.com/in/jaydenn-c
 - Website: <a href="https://www.dennx2.com/" target="blank">https://www.dennx2.com
 - YouTube: <a href="https://www.youtube.com/@dennintech" target="blank">https://www.youtube.com/@dennintech
 - Medium: <a href="https://medium.com/@dennx2" target="blank">https://medium.com/@dennx2
+ [![Cybersecurity Labs Write-up](https://img.shields.io/badge/Lab%20Writeups-1f3b70?style=flat-square&logo=github)](https://github.com/dennx2/cybersecurity-portfolio)
 -->
 
 ---

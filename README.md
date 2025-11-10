@@ -4,7 +4,7 @@ I'm a cybersecurity enthusiast, combining cybersecurity, data analytics, and pro
 
 ### Certifications
 
-- ✅ CompTIA A+
+- ✅ CompTIA A+, Network+
 
 
 ### Cybersecurity Labs

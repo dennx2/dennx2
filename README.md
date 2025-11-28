@@ -4,16 +4,16 @@ I'm a cybersecurity enthusiast, combining cybersecurity, data analytics, and pro
 
 ### Certifications
 
-- ✅ CompTIA A+, Network+
+- ✅ CompTIA A+, Network+, Security+
 
 
 ### Cybersecurity Labs
 
 TryHackMe
-- Completed 10+ beginner rooms, covering offensive & defensive security, Linux fundamentals, SIEM, and cybersecurity career insights.
+- Completed 30+ beginner rooms, covering offensive & defensive security, Linux fundamentals, SIEM, and cybersecurity career insights.
 - [View Profile](https://tryhackme.com/p/dennx2)
 - [Labs Write-up](https://github.com/dennx2/cybersecurity-portfolio)
-
+- [Simulation Reports](https://dennintech.substack.com/s/cyber-simulations)
 
 
 
